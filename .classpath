@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/Apache POI excel/poi-3.16/poi-3.16.jar" sourcepath="C:/Users/Rob/.sourceattacher/poi-3.16-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/Apache POI excel/poi-3.16/poi-examples-3.16.jar" sourcepath="C:/Users/Rob/.sourceattacher/poi-examples-3.16-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/Apache POI excel/poi-3.16/poi-excelant-3.16.jar" sourcepath="C:/Users/Rob/.sourceattacher/poi-excelant-3.16-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/Apache POI excel/poi-3.16/poi-ooxml-3.16.jar" sourcepath="C:/Users/Rob/.sourceattacher/poi-ooxml-3.16-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/Apache POI excel/poi-3.16/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/Apache POI excel/poi-3.16/poi-scratchpad-3.16.jar" sourcepath="C:/Users/Rob/.sourceattacher/poi-scratchpad-3.16-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/Apache POI excel/poi-3.16/ooxml-lib/xmlbeans-2.6.0.jar" sourcepath="C:/Users/Rob/.sourceattacher/xmlbeans-2.6.0-source.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/Apache POI excel/poi-3.16/ooxml-lib/curvesapi-1.04.jar" sourcepath="C:/Users/Rob/.sourceattacher/curvesapi-1.04-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/Apache POI excel/poi-3.16/lib/commons-codec-1.10.jar" sourcepath="C:/Users/Rob/.sourceattacher/commons-codec-1.10-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/Apache POI excel/poi-3.16/lib/commons-collections4-4.1.jar" sourcepath="C:/Users/Rob/.sourceattacher/commons-collections4-4.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/Apache POI excel/poi-3.16/lib/commons-logging-1.2.jar" sourcepath="C:/Users/Rob/.sourceattacher/commons-logging-1.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/Apache POI excel/poi-3.16/lib/junit-4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/Apache POI excel/poi-3.16/lib/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/snmp jars/snmp4j-2.5.5/dist/snmp4j-2.5.5.jar" sourcepath="C:/Users/Rob/Searches/Downloads/snmp jars/snmp4j-2.5.5/src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/snmp jars/snmp4j-agent-2.5.3/dist/snmp4j-agent-2.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/snmp jars/snmp4j-agent-2.5.3/dist/snmp4j-agent-2.5.3-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/snmp jars/snmp4j-2.5.5/dist/snmp4j-2.5.5-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="ApachePOIsrc"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/google gson/gson-2.6.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/json/json-lib-2.4-jdk15.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/json/json-lib-2.4-jdk15-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/json/json-lib-2.4-jdk15-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/json/commons-beanutils-1.9.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/json/commons-logging-1.2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/json/ezmorph-1.0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/json/commons-lang-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/json/org.apache.commons.collections.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Rob/Searches/Downloads/MySQL/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rob/Searches/Downloads/jersey client/jersey-client-2.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rob/Searches/Downloads/Sun base64Encoder/sun.misc.BASE64Decoder.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rob/Searches/Downloads/Java/JSON/jackson-databind-2.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rob/Searches/Downloads/Java/JSON/jackson-annotations-2.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rob/Searches/Downloads/Java/JSON/jackson-core-2.9.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

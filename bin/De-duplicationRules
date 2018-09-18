@@ -1,0 +1,30 @@
+Here are the technical de-duplication rules. 
+
+HP
+This uses SNMP 
+•	the same source SNMP IP address =  previous source SNMP IP address // ie the same element manager
+•	SNMP field nodeName  = previous SNMP field nodeName  // name of a node
+•	SNMP msgId field = previous SNMP msgId field // this is very long random looking string field 
+ 
+Prognosis:
+This uses SNMP
+•	SNMP field irApplication = previous SNMP field irApplication
+•	SNMP field irProblemID = previous SNMP field irProblemID
+•	SNMP field irConditionName = previous SNMP field irConditionName 
+•	SNMP field irSourceNode  = previous SNMP field irSourceNode  
+
+I have not got any details of the SNMP identifiers or  real sample of SNMP yet from Olga, but let’s assume that these are the right values.
+
+Zenoss: 
+This uses a REST JSON type interface
+•	device.text = previous device.text // here is an example "m-cusp-aam-xs1hcsvc01",
+•	eventClass.uid = previous eventClass.uid // here is an example zport/dmd/Events/App/Zenoss/ImpactStatusTrigger
+•	component.text  = previous component.text  // here is an example xs1hcsccr",
+
+FYI the dotted notation here means we have an event that has  sub section about the device, the event class and the component. Then go and get the text part of the device block
+
+Solarwinds: 
+This uses a REST JSON type interface - where we get the same values back
+•	REST JSON field NodeName = previous REST JSON field NodeName
+•	REST JSON field NodeId = previous REST JSON field NodeId
+•	REST JSON field event type Name = previous REST JSON field event type Name
